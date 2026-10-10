@@ -68,6 +68,6 @@ end
 
 gem "tidewave", "~> 0.9.0", group: :development
 
-gem "rails_icons", "~> 1.9"
+gem "rails_icons", "~> 1.10"
 
 gem "acts_as_list", "~> 1.2"
